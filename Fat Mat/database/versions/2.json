@@ -1,0 +1,12 @@
+{
+    "propities": [
+        {
+            "name": "countries",
+            "propities": [
+                "loacale",
+                "name",
+                "captial"
+            ]
+        }
+    ]
+}
